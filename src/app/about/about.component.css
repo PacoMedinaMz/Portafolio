@@ -1,0 +1,12 @@
+.portada {
+    color: #fff;
+    background: linear-gradient(rgba(0,0,0,.5) 100%,rgba(0,0,0,.5) 0),url(../../assets/portada.jpg);
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    width: 100%;
+    text-align: center;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    max-width: -1px;
+}
