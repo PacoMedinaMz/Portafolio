@@ -1,6 +1,6 @@
 .portada {
     color: #fff;
-    background-color:  #021528 ;
+    background-color:  #484949 ;
     /*background-size: cover;
     background-position: 50%;
     background-repeat: no-repeat;*/
@@ -9,4 +9,8 @@
     padding-top: 90px;
     padding-bottom: 90px;
     max-width: -1px;
+}
+
+*{
+    color: #0f0f0f;
 }
