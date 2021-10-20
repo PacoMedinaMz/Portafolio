@@ -1,6 +1,6 @@
 .portada {
     color: #fff;
-    background-color:  #484949 ;
+    background-color:  #021528 ;
     /*background-size: cover;
     background-position: 50%;
     background-repeat: no-repeat;*/
@@ -11,6 +11,6 @@
     max-width: -1px;
 }
 
-*{
+h5, p, a{
     color: #0f0f0f;
 }
